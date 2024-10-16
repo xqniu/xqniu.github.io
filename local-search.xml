@@ -5,6 +5,19 @@
   
   <entry>
     <title></title>
+    <link href="/2024/10/16/%E6%AF%95%E4%B8%9A%E7%AB%A0%E8%8A%82/"/>
+    <url>/2024/10/16/%E6%AF%95%E4%B8%9A%E7%AB%A0%E8%8A%82/</url>
+    
+    <content type="html"><![CDATA[<p>（RT-detr）<br>（旋转框）<br>（对比学习）<br>（超分辨率）</p><p>摘要</p><p>ABSTRACT</p><p>1     绪论</p><pre><code class="hljs">1.1   研究背景及意义1.2   国内外研究现状1.3   本文主要研究内容1.4   本文结构安排</code></pre><p>2     目标识别算法技术</p><pre><code class="hljs">2.1   卷积神经网络基础2.2   目标识别算法2.3   遥感影像细粒度识别的特殊问题2.4   本章小结</code></pre><p>3     基于YOLOv8改进的细粒度识别算法</p><pre><code class="hljs">3.1   遥感影像飞机目标细粒度数据集3.2   基于YOLOv8的识别算法3.3   基于YOLOv8改进的细粒度识别算法3.4   实验结果与分析3.5   本章小结</code></pre><p>4     基于RT-DETR改进的高精度细粒度识别算法</p><pre><code class="hljs">4.1   基于RT-DETR的识别算法4.2   基于RT-DETR改进的高精度细粒度识别算法4.3   实验结果与分析4.4   本章小结</code></pre><p>5     总结和展望</p><pre><code class="hljs">5.1   全文研究总结5.2   后续研究展望</code></pre>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
     <link href="/2024/10/16/%E7%9F%A5%E4%B9%8E%E4%B9%A6%E7%B1%8D%E6%80%BB%E7%BB%93/"/>
     <url>/2024/10/16/%E7%9F%A5%E4%B9%8E%E4%B9%A6%E7%B1%8D%E6%80%BB%E7%BB%93/</url>
     
