@@ -4,6 +4,44 @@
   
   
   <entry>
+    <title>test</title>
+    <link href="/2024/10/17/test/"/>
+    <url>/2024/10/17/test/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>常用软件</title>
+    <link href="/2024/10/17/sofware/"/>
+    <url>/2024/10/17/sofware/</url>
+    
+    <content type="html"><![CDATA[<h2 id="软件"><a href="#软件" class="headerlink" title="软件"></a>软件</h2><ul><li><strong>软件管家</strong> ：火绒</li><li><strong>音乐</strong> ： 网易云音乐</li><li><strong>文本编辑器</strong> ： Notepad++</li><li><strong>压缩软件</strong>：Bandizip</li><li><strong>图片查看器</strong>：IrfanView</li><li><strong>截图工具</strong>：Snipaste</li><li><strong>下载工具</strong>：Motrix、百度网盘</li><li><strong>画图</strong>：Visio、PPT、Origin</li><li><strong>笔记</strong>：Obsidian、OneNote</li><li><strong>文件搜索</strong>：Everything</li><li><strong>软件卸载</strong>：geek</li><li><strong>PDF阅读器</strong>：Adobe Acrobat</li><li><strong>浏览器</strong>：Chrome、Firefox</li><li><strong>壁纸</strong>：Steam(Wallpaper)</li><li><strong>魔法</strong>：Clash Verge</li><li><strong>latex</strong>: TexStudio + Texlive</li><li><strong>图像处理</strong>：Photoshop</li><li><strong>科研</strong>：Zotero、JabRef、 </li><li><strong>IDE</strong>：Pycharm、VSCode、MATLAB(不常用) </li><li><strong>开发工具</strong>：Miniconda、Git、Dokcer、Cmake</li><li><strong>助手</strong> ： Kimi、豆包、Chatgpt</li><li><strong>会议</strong> ：腾讯会议</li><li><strong>远程</strong>：向日葵</li><li><strong>本地Linux环境</strong> : WSL</li></ul><h2 id="手册"><a href="#手册" class="headerlink" title="手册"></a>手册</h2><ul><li><strong>菜鸟教程</strong> ：编程相关教程、软件</li><li><strong>CS自学指南</strong> : 北大编程自学手册</li><li><strong>上交生存手册</strong> ：上交学长经验</li><li><strong>飞跃手册</strong>：留学经验文档</li><li><strong>编程指北</strong> ：编程书籍、面试</li></ul><h2 id="划水"><a href="#划水" class="headerlink" title="划水"></a>划水</h2><ul><li><strong>视频</strong> ：哔哩哔哩、YouTube</li><li><strong>编程</strong> ：CSDN、简书、掘金、StackOverflow</li><li><strong>吃瓜</strong> ：知乎、小红书</li></ul><h2 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h2><ul><li><strong>PPT</strong> : iSlide、OneKey Lite、ThreeD、LvyhTools</li><li><strong>Zotero</strong> : Translate for Zotero、Better Bibtex for Zotero、Jasminum、Ethereal Style、Ethereal Reference</li><li><strong>vscode</strong> : C++、Chinese、Cmake、Docker、Fitten Code、Indent Rainbow、Remote-SSH</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>软件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>软件安装</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2024/10/04/hello-world/"/>
     <url>/2024/10/04/hello-world/</url>
